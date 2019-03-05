@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Visit the live demo
 
-**[Live website](https://reshma-dhuldhule-react-directory.netlify.com/)**
+**[Live website](https://reshma-dhuldhule-react-subscriber-directory.netlify.com/)**
 
 ## About the Application
 
